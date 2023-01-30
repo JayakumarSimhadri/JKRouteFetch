@@ -1,0 +1,22 @@
+.imageProp {
+  height: 150px;
+  width: 150px;
+  margin-right: 20px;
+}
+
+li {
+  list-style-type: none;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.avatarProp {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+
+.avatarBlock {
+  display: flex;
+  justify-content: space-between;
+}
